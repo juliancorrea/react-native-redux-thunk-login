@@ -29,7 +29,7 @@ $ npm install
 ```sh
 $ npm run jsonserver
 ````
-You must see some like that:
+You will see a screen as it is:
 
 ![jsonserver runing image](https://raw.githubusercontent.com/juliancorrea/react-native-redux-thunk-login/master/assets/jsonserver-running.png)
 
