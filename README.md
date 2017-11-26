@@ -53,7 +53,7 @@ Fill password field with
 123qweASD
 ```
 
-To simulate the login failed and Toast with error message fill the password field with a value diferrent from passoword above.
+To simulate the login failed and Toast with error message fill the password field with a value diferrent from password above.
 
 ![Git showing screen transition](https://raw.githubusercontent.com/juliancorrea/react-native-redux-thunk-login/master/assets/redux-thunk-login.gif)
 
