@@ -28,10 +28,10 @@ $ npm install
 
 ```sh
 $ npm run jsonserver
-
+````
 In another terminal window:
-
-$ react-native run-ios
+```sh
+$ react-native run-android
 ```
 or
 
