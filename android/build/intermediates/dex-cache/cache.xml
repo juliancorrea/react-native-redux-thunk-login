@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/julian/freelas/livemktjobs/livemktjobs-nativebase/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.47.2/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/julian/freelas/livemktjobs/livemktjobs-nativebase/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_4d1e8a00df1508977a0ebc65d3875ab793914d33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/julian/freelas/livemktjobs/livemktjobs-nativebase/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/julian/freelas/livemktjobs/livemktjobs-nativebase/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_26b1500cb9a11809d94567a034a32fbadf7da898.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/julian/freelas/livemktjobs/livemktjobs-nativebase/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/julian/freelas/livemktjobs/livemktjobs-nativebase/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_46b630dec536e54c293bda12dfc39b4ed45510b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/julian/freelas/livemktjobs/livemktjobs-nativebase/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/Users/julian/freelas/livemktjobs/livemktjobs-nativebase/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.0.1_21e91cf9bea69cfd4b2913106559334bc9d4e0bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/julian/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/julian/freelas/livemktjobs/livemktjobs-nativebase/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_6207e6d570aed0c0af4f7a9ba0ca903e4ac4e70d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/julian/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/julian/freelas/livemktjobs/livemktjobs-nativebase/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_3c50b5b5ddfcd93211f76719f60222205c7599f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/julian/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/julian/freelas/livemktjobs/livemktjobs-nativebase/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_0bb4036a1222fd09a6c1eee9074fc53271692ffa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/julian/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/julian/freelas/livemktjobs/livemktjobs-nativebase/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_3b6810d7963393133643d566157e5a0f7c6c9958.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/julian/freelas/livemktjobs/livemktjobs-nativebase/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/Users/julian/freelas/livemktjobs/livemktjobs-nativebase/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.0.1_970c645e702d2a8e108982c2eb3a7133792542c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/julian/freelas/livemktjobs/livemktjobs-nativebase/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/Users/julian/freelas/livemktjobs/livemktjobs-nativebase/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.0.1_7f7cb8e18cc122a9c61d859f1bde541d364fe5f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/julian/freelas/livemktjobs/livemktjobs-nativebase/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/julian/freelas/livemktjobs/livemktjobs-nativebase/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_f5484d9526706c1cd306d7c38f821b4d55fbe479.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/julian/freelas/livemktjobs/livemktjobs-nativebase/android/app/build/intermediates/exploded-aar/ReactNativeSeed/react-native-i18n/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="89075ff9a907af843ffb29e0c882230eb331739d">
+        <dex dex="/Users/julian/freelas/livemktjobs/livemktjobs-nativebase/android/app/build/intermediates/pre-dexed/debug/ReactNativeSeed-react-native-i18n-unspecified_808ba4c7ccccd6d9c5e1ea4058e1986cefeae4f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/julian/freelas/livemktjobs/livemktjobs-nativebase/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.47.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="576b5113887747a7592650ae14d980e1c57983c4">
+        <dex dex="/Users/julian/freelas/livemktjobs/livemktjobs-nativebase/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.47.2_16fc71d01091c633c69cc44b0a5cd4c571d8f598.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/julian/freelas/livemktjobs/livemktjobs-nativebase/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/julian/freelas/livemktjobs/livemktjobs-nativebase/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_d499f3e354ddb56713e8811f880f09c8b9be2fe5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/julian/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/julian/freelas/livemktjobs/livemktjobs-nativebase/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_13a73ced748e1e2d8e0ce19abb525ea7cf81b048.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/julian/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/julian/freelas/livemktjobs/livemktjobs-nativebase/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_4fea834e400c85c181e778099d8a6dd71105831b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/julian/freelas/livemktjobs/livemktjobs-nativebase/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/Users/julian/freelas/livemktjobs/livemktjobs-nativebase/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.0.1_f60b513df489ad15dd4f3558c18bd05ad126fe89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/julian/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/julian/freelas/livemktjobs/livemktjobs-nativebase/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_ff97b9526861f5d46a8f5db2d887430f7631f560.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/julian/freelas/livemktjobs/livemktjobs-nativebase/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/julian/freelas/livemktjobs/livemktjobs-nativebase/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_91a417e690e4db3d51f5d375b9beb1a439d3f154.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/julian/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/julian/freelas/livemktjobs/livemktjobs-nativebase/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_b998dc3b14bafe899d1dca62417620eccabea2ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/julian/freelas/livemktjobs/livemktjobs-nativebase/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/Users/julian/freelas/livemktjobs/livemktjobs-nativebase/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.0.1_1d7f1c7efed66ce0809e6873de3fdf418c6cbf35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/julian/freelas/livemktjobs/livemktjobs-nativebase/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/Users/julian/freelas/livemktjobs/livemktjobs-nativebase/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_c1a64667ba45d7793091a1c97fa53f5b27910d1f.jar" />
+    </item>
+
+</items>

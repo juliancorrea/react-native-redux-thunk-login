@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "id_candidato": 14,
+      "login": "julian@correa.com",
+      "senha": "123qweASD",
+      "nome": "Julian",
+      "sobrenome": "Correa",
+      "dt_nascimento": "1986-09-23T18:25:43.511Z",
+      "nascionalidade": "brasileira",
+      "sexo": "m",
+      "nome_mae": "Joana da Silva Sauro",
+      "nome_pai": "Dino Primeiro da Silva Sauro",
+      "estado_civil": "solteiro",
+      "nome_conjuge": "Fran da Silva Sauro",
+      "dt_nascimento_conjuge": "2000-02-21T18:25:43.511Z",
+      "nome_filho1": "Baby da Silva Sauro",
+      "dt_nascimento_filho1": "2001-02-21T18:25:43.511Z",
+      "altura": "1,70",
+      "peso": "120",
+      "manequim": "52",
+      "calcado": "44",
+      "cor_olhos": "azul",
+      "cor_cabelos": "preto",
+      "cor_pele": "pardo",
+      "portador_deficiencia": "fisica",
+      "telefone_fixo": "1122334455",
+      "celular": "11988776655",
+      "operadora_celular": "Vivo",
+      "zona": "zona_norte",
+      "cep": "04583-110",
+      "endereco": "Av. Roque Petroni Júnior",
+      "numero": "1089",
+      "complemento": "Torre 1 Apto 201",
+      "bairro": "Vila Gertrudes",
+      "cidade": "São Paulo",
+      "estado": "SP"
+    }
+  ]
+}

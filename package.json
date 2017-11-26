@@ -1,0 +1,60 @@
+{
+	"name": "ReactNativeSeed",
+	"version": "1.0.0",
+	"private": true,
+	"devDependencies": {
+		"babel-eslint": "7.2.3",
+		"babel-preset-react-native-stage-0": "^1.0.1",
+		"eslint": "4.6.1",
+		"eslint-plugin-flowtype": "2.35.1",
+		"eslint-plugin-import": "2.7.0",
+		"eslint-plugin-jsx-a11y": "6.0.2",
+		"eslint-plugin-prettier": "2.2.0",
+		"eslint-plugin-react": "7.3.0",
+		"eslint-plugin-react-native": "3.1.0",
+		"flow-bin": "0.54.0",
+		"flow-typed": "2.1.5",
+		"husky": "0.14.3",
+		"jest": "20.0.4",
+		"react-devtools": "^3.0.0",
+		"react-test-renderer": "16.0.0-alpha.12",
+		"reactotron-react-native": "^1.13.2",
+		"remote-redux-devtools": "^0.5.0",
+		"remotedev-server": "^0.2.4"
+	},
+	"scripts": {
+		"start": "react-native start",
+		"android": "react-native run-android",
+		"ios": "react-native run-ios",
+		"test": "jest && flow && eslint .",
+		"precommit": "yarn test",
+		"jsonserver": "json-server --watch ./src/db.json",
+		"react-devtool": "react-devtools",
+		"redux-devtool": "remotedev"
+	},
+	"jest": {
+		"preset": "react-native",
+		"transformIgnorePatterns": [
+			"node_modules/(?!(react-native|lottie-react-native|expo|react-native-maps|react-native-svg|react-native-branch|native-base-shoutem-theme|react-native-easy-grid|react-native-drawer|react-native-vector-icons|react-native-keyboard-aware-scroll-view|react-navigation|native-base|@expo|react-native-scrollable-tab-view)/)"
+		]
+	},
+	"dependencies": {
+		"apisauce": "^0.14.1",
+		"lodash": "4.13.1",
+		"moment": "2.13.0",
+		"native-base": "2.3.2",
+		"react": "16.0.0-alpha.12",
+		"react-native": "0.47.2",
+		"react-native-easy-toast": "^1.0.8",
+		"react-native-i18n": "^2.0.9",
+		"react-native-root-toast": "^2.2.0",
+		"react-navigation": "1.0.0-beta.11",
+		"react-redux": "5.0.5",
+		"redux": "3.7.2",
+		"redux-form": "7.0.3",
+		"redux-logger": "^3.0.6",
+		"redux-persist": "4.8.3",
+		"redux-thunk": "2.2.0",
+		"remote-redux-devtools-on-debugger": "^0.8.0"
+	}
+}

@@ -1,0 +1,7 @@
+Dados pessoais 
+Calendario - Vagas selecionadas
+Lupa - Buscar vagas
+Feed - Notificações
+Share - Compartilhamento
+
+ICONES para o APP: https://oblador.github.io/react-native-vector-icons/
