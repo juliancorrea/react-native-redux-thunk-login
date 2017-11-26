@@ -29,14 +29,17 @@ $ npm install
 ```sh
 $ npm run jsonserver
 ````
+You must see some like that:
+![Example](juliancorrea.github.com/react-native-redux-thunk-login/assets/jsonserver-running.png)
+
 In another terminal window:
 ```sh
-$ react-native run-android
+$ react-native run-ios
 ```
 or
 
 ```sh
-$ react-native run-ios
+$ react-native run-android
 ````
 
 ## 4. Screen Transition Test 
@@ -53,3 +56,5 @@ Fill password field with
 ```
 
 To simulate the login failed and Toast with error message fill the password field with a value diferrent from passoword above.
+
+![Example](juliancorrea.github.com/react-native-redux-thunk-login/assets/redux-thunk-login.gif)

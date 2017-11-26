@@ -55,7 +55,7 @@ export function doLogin(userValues: Object) {
     //Dispatch loading to show Spinner on screen
     dispatch(loginIsLoading(true));
 
-    fetch(`${URL}?login=${userValues.userName}&senha=${userValues.password}`)
+    fetch(`${URL}?userName=${userValues.userName}&password=${userValues.password}`)
       .then(response => {
 	    if (response.status >= 200 && response.status <= 304){
       response.json().then(data => {
