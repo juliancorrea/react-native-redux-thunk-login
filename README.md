@@ -30,6 +30,7 @@ $ npm install
 $ npm run jsonserver
 ````
 You must see some like that:
+
 ![jsonserver runing image](https://raw.githubusercontent.com/juliancorrea/react-native-redux-thunk-login/master/assets/jsonserver-running.png)
 
 In another terminal window:
