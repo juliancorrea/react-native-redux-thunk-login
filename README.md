@@ -55,7 +55,21 @@ Fill password field with
 
 To simulate the login failed and Toast with error message fill the password field with a value diferrent from password above.
 
+Here is an example:
+
 ![Git showing screen transition](https://raw.githubusercontent.com/juliancorrea/react-native-redux-thunk-login/master/assets/redux-thunk-login.gif)
+
+
+In Android case, is necessary change de IP on file /src/global/config.js to your machine IP that are running jsonserver.
+
+```js
+...
+BASE_URL : Platform.select({
+      ios: "http://localhost:3000",
+      android: "http://192.168.0.102:3000"
+    }) ,
+....
+````
 
 ### 5. License
 
