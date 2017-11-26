@@ -1,5 +1,5 @@
 ## react-native-redux-thunk-login
-A example of transition screen using ReactNativeBase seed project with redux, redux-thunk and jsonserver for simulates API request
+A real example of transition screen using ReactNativeBase seed project with redux, redux-thunk and jsonserver for simulates API request
 
 
 ## Get Started
