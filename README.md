@@ -59,4 +59,4 @@ To simulate the login failed and Toast with error message fill the password fiel
 
 ### 5. License
 
-[MIT](https://github.com/juliancorrea/license/blob/master/LICENSE)
+[MIT](https://raw.githubusercontent.com/juliancorrea/react-native-redux-thunk-login/master/LICENSE)
