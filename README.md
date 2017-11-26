@@ -40,7 +40,7 @@ or
 $ react-native run-android
 ````
 
-## 4. Screen Transition Test 
+### 4. Screen Transition Test 
 
 To simulate the login sucess and trasition to Secure Area do:
 
@@ -56,3 +56,7 @@ Fill password field with
 To simulate the login failed and Toast with error message fill the password field with a value diferrent from passoword above.
 
 ![Git showing screen transition](https://raw.githubusercontent.com/juliancorrea/react-native-redux-thunk-login/master/assets/redux-thunk-login.gif)
+
+### 5. License
+
+[MIT](https://github.com/juliancorrea/license/blob/master/LICENSE)
