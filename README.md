@@ -22,18 +22,22 @@ $ git clone https://github.com/juliancorrea/react-native-redux-thunk-login.git
 $ cd react-native-redux-thunk-login
 
 $ npm install
+````
 
 ### Run 
 
+```sh
 $ npm run jsonserver
 
 In another terminal window:
 
 $ react-native run-ios
-
+```
 or
 
+```sh
 $ react-native run-ios
+````
 
 ## Test
 
