@@ -30,7 +30,7 @@ $ npm install
 $ npm run jsonserver
 ````
 You must see some like that:
-![Demo](https://juliancorrea.github.com/react-native-redux-thunk-login/assets/jsonserver-running.png)
+![jsonserver runing image](https://raw.githubusercontent.com/juliancorrea/react-native-redux-thunk-login/master/assets/jsonserver-running.png)
 
 In another terminal window:
 ```sh
@@ -57,4 +57,4 @@ Fill password field with
 
 To simulate the login failed and Toast with error message fill the password field with a value diferrent from passoword above.
 
-![Demo](https://juliancorrea.github.com/react-native-redux-thunk-login/assets/redux-thunk-login.gif)
+![Git showing screen transition](https://raw.githubusercontent.com/juliancorrea/react-native-redux-thunk-login/master/assets/redux-thunk-login.gif)
