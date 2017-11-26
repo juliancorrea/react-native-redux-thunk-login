@@ -24,7 +24,7 @@ $ cd react-native-redux-thunk-login
 $ npm install
 ````
 
-### Run 
+### 3. Run 
 
 ```sh
 $ npm run jsonserver
@@ -39,7 +39,7 @@ or
 $ react-native run-ios
 ````
 
-## Test
+## 4. Screen Transition Test 
 
 To simulate the login sucess and trasition to Secure Area do:
 
@@ -52,4 +52,4 @@ Fill password field with
 123qweASD
 ```
 
-To simulata the login failed and Toast with error message fill the password field with a value diferrent from [123qweASD] 
+To simulate the login failed and Toast with error message fill the password field with a value diferrent from passoword above.
