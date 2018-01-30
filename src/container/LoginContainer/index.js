@@ -29,12 +29,12 @@ export interface State {
 }
 
 class LoginForm extends React.Component<Props, State> {
-	userInput: any;
-	passwordInput: any;
+	inputs: Object;
 	toast: any;
 
 	constructor(props){
 		super(props);
+		this.inputs = {};
 		this.renderInput = this.renderInput.bind(this);
 		this.state = {
 			isLoading:false
@@ -68,11 +68,11 @@ class LoginForm extends React.Component<Props, State> {
 					autoCorrect={false}
 					returnKeyType={ input.name === "email" ? "next" : "go"}
 					autoCapitalize="none"
-					ref={c => input.name === "email"  ? () => {this.userInput = c;} : ()=>{this.passwordInput = c;}}
+					ref={ (c) => {this.inputs[input.name] = c;}}
 					placeholder={input.name === "email" ? i18n.t("login_user") : i18n.t("login_password")}
 					secureTextEntry={input.name === "password" ? true : false}
 					underlineColorAndroid="transparent"
-					onSubmitEditing={input.name === "password" ? handleSubmit(this.onSubmit) : () => {this.passwordInput._root.focus();}}
+					onSubmitEditing={input.name === "password" ? handleSubmit(this.onSubmit) : () => {this.inputs.password._root.focus();}}
 					{...input}
 				/>
 			</Item>

@@ -14,7 +14,7 @@ export default {
     useReactotron: __DEV__,
     BASE_URL : Platform.select({
       ios: "http://localhost:3000",
-      android: "http://192.168.0.102:3000"
+      android: "http://192.168.0.32:3000"
     }) ,
     ROUTE_LOGIN : "/users",
   };
